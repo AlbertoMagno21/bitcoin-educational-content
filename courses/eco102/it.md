@@ -18,7 +18,7 @@ Una parte importante del corso è dedicata ai sofismi economici denunciati da Ba
 
 Infine, il corso si conclude con una riflessione su "La Legge", affrontando concetti chiave come il diritto alla proprietà, il saccheggio legale e il ruolo dello stato. La conclusione del corso rivisita l'eredità di Frédéric Bastiat e la sua duratura influenza sull'economia moderna.
 
-Unisciti a Damien Theillier in questa esplorazione arricchente del pensiero di Frédéric Bastiat e scopri come le sue idee possono illuminare i dibattiti economici e politici attuali.
+Unisciti a Damien Theillier in questa esplorazione migliorativa del pensiero di Frédéric Bastiat e scopri come le sue idee possono illuminare i dibattiti economici e politici attuali.
 
 +++
 
@@ -56,12 +56,15 @@ Pronto a scoprire come le idee di Frédéric Bastiat possano ancora risuonare og
 <chapterId>7f21b617-9810-5484-ad1c-befc61432126</chapterId>
 
 Questo corso è un'introduzione a Frédéric Bastiat, un genio non riconosciuto e un faro per i nostri tempi. In questa breve introduzione, cercherò di aiutarvi a scoprire chi era Frédéric Bastiat e quali sono i temi principali che tratteremo durante questa serie.
+
 ![image](assets/en/001.webp)
 
 Infatti, Frédéric Bastiat, nato nel 1801 e vissuto durante la prima metà del XIX secolo, è rimasto per qualche tempo un autore importante. E poi, gradualmente, è scomparso e oggi, nessuno parla di lui, nessuno sa chi sia. Eppure, paradossalmente, questo autore è stato tradotto in molte lingue, inclusi l'italiano, il russo, lo spagnolo e l'inglese.
 
 ![image](assets/en/002.webp)
+
 Si scopre che dopo la Seconda Guerra Mondiale, uno dei suoi libri fu pubblicato negli Stati Uniti. Divenne molto famoso, tanto che lo stesso Ronald Reagan disse che era il suo libro preferito, e questo piccolo libro si chiama "La Legge". Bastiat è così uno dei due autori francesi più famosi negli Stati Uniti, l'altro essendo ben noto anche in Francia, Alexis de Tocqueville.
+
 ![image](assets/en/003.webp)
 
 _(Mercato a Mugron nelle Landes, la città di Bastiat)_
